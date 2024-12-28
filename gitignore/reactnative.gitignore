@@ -1,0 +1,74 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React Native
+*.keystore
+!android/app/src/main/res/mipmap-*/*.png
+android/.gradle
+android/app/build/
+android/build/
+android/.idea
+android/app/src/main/assets/index.android.bundle
+android/app/src/main/res/raw/*
+ios/Pods/
+ios/build/
+ios/DerivedData/
+ios/*.xcworkspace
+ios/.expo/*
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Xcode
+.DS_Store
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+*.mode2v3
+!default.mode1v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# Android Studio
+*.iml
+.idea/
+.gradle/
+local.properties
+*.apk
+output.json
+*.cxx/
+captures/
+
+# Packages
+*.tgz
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Temporary
+*.tmp
+*.temp
+
+# ESLint
+.eslintcache
+
+# Expo
+.expo/
+.expo-shared/
+
+# JetBrains
+*.idea/
+
+# TypeScript
+*.tsbuildinfo

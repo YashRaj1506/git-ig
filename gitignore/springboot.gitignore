@@ -1,0 +1,55 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Spring Boot specific
+*.pid
+*.hprof
+logs/
+
+# Maven build directory
+target/
+
+# Gradle build directory
+build/
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse-specific files
+.project
+.classpath
+.settings/
+bin/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+
+# Environment configuration
+.env
+*.properties
+*.yml
+
+# Test reports
+test-output/
+
+# Other configuration files
+*.jks
+*.keystore
+
+# IntelliJ specific folder
+.idea/
+
+# VS Code specific folder
+.vscode/
