@@ -1,7 +1,7 @@
 # Git-ig 
 
 
-![App Screenshot](gitignore.png)
+![App Screenshot](gitignore_mascot.png)
 
 
 ## Installation
