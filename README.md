@@ -1,5 +1,5 @@
 # Git-ig 
-## Screenshots
+
 
 ![App Screenshot](gitignore.png)
 
